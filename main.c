@@ -142,7 +142,7 @@ int main (void) {
 		MagicWanButton(&k3, &PIN_BTN, BTN_C, 1000, 2000, scene_C, alt_C);
 		MagicWanButton(&k4, &PIN_BTN, BTN_D, 1500, 2000, scene_D, alt_D);
 		MagicWanButton(&k5, &PIN_BTN, BTN_E, 1500, 2000, scene_E, alt_E);
-		MagicWanButton(&k6, &PIN_BTN, BTN_F, 1500, 1000, scene_F, alt_F);
+		MagicWanButton(&k6, &PIN_BTN, BTN_F, 1000, 1000, scene_F, alt_F);
 		//MagicWanButton1(&k6, &PIN_BTN, BTN_F, 1500, 2000, scene_X, scene_X);
 
 
